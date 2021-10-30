@@ -13,7 +13,7 @@ them. Subsequently, the obstacles’ repelling forces and the goals attracting f
 motion of the car from start to goal while maintaining sufficient distances from the obstacles and walls even though the planned path may be too close to them.__
 
 <p float="center">
-  <img src="media/apf_test_Berlin.gif" width="750" height="400"/> 
+  <img src="media/apf_test_Berlin.gif" width="750" height="550"/> 
 </p>
 
 ## References
