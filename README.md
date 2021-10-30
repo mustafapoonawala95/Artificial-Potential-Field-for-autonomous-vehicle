@@ -10,7 +10,7 @@ of charged particles and potential fields and the forces they exert on charged p
 assume that the car and the obstacles are similarly charged and thus repel each other, and the
 goal and sub-goal points are oppositely charged from that of the car and thus attract it towards
 them. Subsequently, the obstacles’ repelling forces and the goals attracting forces result in
-motion of the car from start to goal while avoiding the obstacles.__
+motion of the car from start to goal while maintaining sufficient distances from the obstacles and walls even though the planned path may be too close to them.__
 
 <p float="center">
   <img src="media/apf_test_Berlin.gif" width="750" height="400"/> 
